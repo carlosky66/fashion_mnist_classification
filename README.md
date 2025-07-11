@@ -19,7 +19,7 @@ Make sure the `aiforge` library is available in your environment. If not, you ne
 
 ### Installation of `aiforge`:
 
-To install the `aiforge` package, follow the instructions in this link: [text](https://github.com/carlosky66/aiforge)
+To install the `aiforge` package, follow the instructions in this link: [aiforge](https://github.com/carlosky66/aiforge)
 
 ## Installation
 
