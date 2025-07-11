@@ -23,7 +23,7 @@ To install the `aiforge` package, follow the instructions in this link: [aiforge
 
 ## Installation
 
-It's recommended to use a virtual environment to manage dependencies. You can use conda or pyenv, but we suggest using mamba for faster dependency resolution.
+It's recommended to use a virtual environment to manage dependencies. You can use conda or pyenv, but we suggest using [mamba](https://mamba.readthedocs.io/en/latest/installation/mamba-installation.html) for faster dependency resolution.
 
 ### Create the environment
 
