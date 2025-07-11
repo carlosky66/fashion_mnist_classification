@@ -63,7 +63,7 @@ Hydra will automatically handle these configurations during runtime.
 
 To start training:
 ```
-python3 main.py train-model
+python3 main.py train
 ```
 ### Evaluating the model
 
@@ -71,7 +71,7 @@ To start evaluating:
 
 To evaluate the model, execute the following command:
 ```
-python3 main.py evaluate-model
+python3 main.py evaluate
 ```
 
 ## Project Structure
@@ -95,7 +95,7 @@ python3 main.py evaluate-model
 
     Hydra allows dynamic overrides via command line, e.g.:
     ```
-    python3 main.py train-model model.hidden_units=256
+    python3 main.py train model.hidden_units=256
     ```
 
 * Make sure your working directory is set correctly when running the scripts so that Hydra can locate the config/ folder.
