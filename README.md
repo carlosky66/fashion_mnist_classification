@@ -83,6 +83,7 @@ python3 main.py evaluate-model
 ├── env.yml               # Conda environment file
 ├── evaluate.py           # Evaluation logic
 ├── main.py               # Entry point
+├── LICENSE               # MIT License
 ├── README.txt            # Project description and instructions
 ├── requirements.txt      # Python package dependencies
 └── train.py              # Training logic
