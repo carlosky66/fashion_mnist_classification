@@ -1,0 +1,5 @@
+name: "ffnn"
+model_path: "models/ffnn/model"
+layers: [128]
+activations: ["relu"]
+output_activation: "softmax"
